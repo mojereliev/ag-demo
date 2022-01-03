@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{362:function(e,n,d){"use strict";d.r(n);var c={name:"MediaIndex",fetch:function(e){var n=e.app;(0,e.redirect)(n.localePath("/media/music"))}},t=d(7),component=Object(t.a)(c,undefined,undefined,!1,null,null,null);n.default=component.exports}}]);
